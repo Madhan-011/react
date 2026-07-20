@@ -1,0 +1,23 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "This is React learning",
+  "homepage": "https://github.com/Madhan-011/react#readme",
+  "bugs": {
+    "url": "https://github.com/Madhan-011/react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madhan-011/react.git"
+  },
+  "license": "ISC",
+  "author": "Madhan Dev",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
